@@ -1,0 +1,65 @@
+.top{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    height: 20%;
+
+
+}
+.marquee_text{
+    font: italic 1.2em "Fira Sans", serif;
+    font-size: 80px;
+    margin-bottom: 20px;
+
+}
+.col{
+    padding: 0px;
+}
+.col-6{
+    height: 100%;
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);        margin-top: 30px;
+    margin-bottom: 300px;;
+
+}
+.btn{
+    margin-bottom: 50px;
+}
+/* text */
+.dstext{
+    
+    color:black;
+    width: 30%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left:220px;;
+    margin-bottom: 50px;;
+}
+
+/* images */
+.mrits{
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+}
+.DS{
+    position: relative;
+    height:250px;
+    width:250px;;
+    /* edit this */
+    margin-top: 30px;;
+
+}
+.enter{
+    position: relative;
+    color: #52cffe ;
+    
+}
+.team{
+    position: relative;
+    margin-bottom: 50px;;
+}
+body{
+    /* color */
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.iste{
+    margin-top: 50px;;
+}
